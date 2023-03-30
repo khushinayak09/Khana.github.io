@@ -2,8 +2,6 @@
   <h2 align="center">Khana - Restaurant Website</h2>
    Khana is a fully responsive restaurant website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 </div><br><br>
-![Readme](https://user-images.githubusercontent.com/107036687/228854717-cd097e7a-3ec5-4261-b8f6-6d83b747ed1c.gif)
-</div><br><br>
 
 ### Prerequisites
 
